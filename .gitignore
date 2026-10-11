@@ -1,0 +1,17 @@
+# Python
+__pycache*/
+*.py[cod]
+*$py.class
+# Java
+*.class
+# Terraform
+.terraform*/
+*.tfstate
+*.tfstate.*
+# Environment
+.env
+# IDE
+.idea/
+*.iml
+.vscode/
+*~
