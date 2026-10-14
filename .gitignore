@@ -14,4 +14,25 @@ __pycache*/
 .idea/
 *.iml
 .vscode/
-*~
+*~# Python (more)
+venv/
+.venv/
+.pytest_cache/
+.coverage
+# Java (more)
+target/
+build/
+.gradle/
+# Secrets
+.env.*
+*.pem
+*.key
+# Terraform (more)
+*.tfvars
+!example.tfvars
+crash.log
+# OS
+.DS_Store
+Thumbs.db
+# Node
+node_modules/
